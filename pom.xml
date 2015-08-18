@@ -69,8 +69,8 @@
 	</dependencies>
 
 	<properties>
-		<amp.genericCore>true</amp.genericCore>
-		<amp.fullSource>false</amp.fullSource>
+		<amp.genericCore>false</amp.genericCore>
+		<amp.fullSource>true</amp.fullSource>
 		<dao.framework>hibernate</dao.framework>
 		<db.name>cocoweb</db.name>
 		<web.framework>spring</web.framework>
